@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nikhil
 
-I’m a cybersecurity enthusiast and Python developer with experience in data analytics and Power BI.  
+I’m a cybersecurity enthusiast and Powwer BI developer with experience in data analytics and Python.  
 I enjoy building secure, data-driven solutions and continuously learning new technologies.
 
 ### 🔐 Interests
