@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Nikhil
 
-<!--
-**nikhillsharma24/nikhillsharma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity enthusiast and Python developer with experience in data analytics and Power BI.  
+I enjoy building secure, data-driven solutions and continuously learning new technologies.
 
-Here are some ideas to get you started:
+### 🔐 Interests
+- Cybersecurity & secure systems
+- Python development
+- Data analytics & visualization
+- Power BI dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Python
+- Power BI
+- Data Analytics
+- Cybersecurity fundamentals
